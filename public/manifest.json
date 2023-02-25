@@ -1,0 +1,9 @@
+{
+  "name": "HTTP Request Logger",
+  "description": "Logs all HTTP requests to the console",
+  "version": "1.0",
+  "manifest_version": 2,
+  "background.service": {
+    "scripts": ["background.js"]
+  }
+}
